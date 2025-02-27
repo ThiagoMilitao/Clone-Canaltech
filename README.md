@@ -16,3 +16,23 @@ Aprimorar habilidades em estilização com CSS puro.
 Implementar um layout responsivo que se adapte a diferentes dispositivos.
 
 Reproduzir fielmente a interface do site original.
+
+## 🖼 Prévia do Projeto
+
+Aqui estão algumas imagens do projeto:
+
+<img src="images/preview/preview1.png" width="600" height="279">
+
+
+<img src="images/preview/preview2.png" width="600" height="279">
+
+
+<img src="images/preview/preview3.png" width="600" height="279">
+
+
+<img src="images/preview/preview4.png" width="600" height="279">
+
+### Versão Responsiva
+
+<img src="images/preview/previewmobile1.png" width="300" height="536"> 
+<img src="images/preview/previewmobile2.png" width="300" height="536">
